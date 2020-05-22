@@ -5,8 +5,8 @@
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="Página de currículo Pessoal">
+    <meta name="author" content="ManoelNeto">
 
     <title>Apresentação de Manoel Neto</title>
     <!-- Bootstrap core CSS -->
@@ -18,7 +18,7 @@
     <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="css/resume.min.css" rel="stylesheet">
+    <link id="lkresume" href="css/resume.min.css" rel="stylesheet">
 
 </head>
 
@@ -29,7 +29,7 @@
         <a class="navbar-brand js-scroll-trigger" href="#page-top">
             <span class="d-block d-lg-none">Manoel Adiodato de Morais Neto </span>
             <span class="d-none d-lg-block">
-        <img style="border: 6px solid #103f52;" class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/profile.jpeg" alt="Manoel Adiodato de Morais Neto">
+        <img id="profile" class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/profile.jpeg" alt="Manoel Adiodato de Morais Neto">
       </span>
         </a>
 
@@ -58,8 +58,16 @@
                 <li class="nav-item">
                     <a class="nav-link js-scroll-trigger" href="#awards">Certificações</a>
                 </li>
+                <li class="nav-item">
+                    <div class="nav-link js-scroll-trigger"> &nbsp</div>
+                </li>
+                <li class="nav-item">
+                    <div id='theme' onclick="changeColor()">ChangeTheme</div>
+                </li>
             </ul>
+
         </div>
+
     </nav>
 
     <div class="container-fluid p-0">

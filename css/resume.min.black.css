@@ -58,7 +58,7 @@ p.lead {
     display: inline-block;
     height: 3.5rem;
     width: 3.5rem;
-    background-color: #15536b;
+    background-color: #343a40;
     color: #fff!important;
     border-radius: 100%;
     text-align: center;
@@ -72,7 +72,7 @@ p.lead {
 }
 
 .social-icons a:hover {
-    background-color: #2089b3
+    background-color: rgba(0, 0, 0, 1)
 }
 
 
@@ -155,30 +155,30 @@ section.resume-section .resume-item .resume-date {
     }
 }
 .bg-primary {
-    background-color: #15536b!important
+    background-color: rgba(2, 3, 3, 0.925)!important
 }
 .text-primary {
-    color: #15536b!important
+    color: rgba(0, 0, 0, 0.5)!important
 }
 a {
-    color: #15536b
+    color: rgba(0, 0, 0, 0.5);
 }
 a:active,
 a:focus,
 a:hover {
-    color: #15536b
+    color: black;
 }
 li.espace {
     margin-bottom:10px;
 }
 img#profile {
-    border: 8px solid #103f52!important
+    border: 8px solid rgba(0, 0, 0, 1)!important
 }
 div#theme {
     width: auto;
     height: auto;
     padding: 4px 18px 4px 18px;
-    background-color: rgba(16, 63, 82, 0.5);
+    background-color: rgba(0, 0, 0, 0.5);
     position: absolute;
     bottom: 8px;
     text-align: center;

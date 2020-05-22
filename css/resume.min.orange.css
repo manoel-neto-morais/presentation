@@ -58,7 +58,7 @@ p.lead {
     display: inline-block;
     height: 3.5rem;
     width: 3.5rem;
-    background-color: #15536b;
+    background-color: #bd5d38;
     color: #fff!important;
     border-radius: 100%;
     text-align: center;
@@ -72,7 +72,7 @@ p.lead {
 }
 
 .social-icons a:hover {
-    background-color: #2089b3
+    background-color: #ec703e
 }
 
 
@@ -112,7 +112,7 @@ p.lead {
     #sideNav .navbar-brand .img-profile {
         max-width: 10rem;
         max-height: 10rem;
-        border: .5rem solid rgba(88, 83, 83, 0.2)
+        border: .5rem solid #bd5d38
     }
     #sideNav .navbar-collapse {
         display: flex;
@@ -155,30 +155,30 @@ section.resume-section .resume-item .resume-date {
     }
 }
 .bg-primary {
-    background-color: #15536b!important
+    background-color: #bd5d38!important
 }
 .text-primary {
-    color: #15536b!important
+    color: #bd5d38!important
 }
 a {
-    color: #15536b
+    color: #bd5d38;
 }
 a:active,
 a:focus,
 a:hover {
-    color: #15536b
+    color: black;
 }
 li.espace {
     margin-bottom:10px;
 }
 img#profile {
-    border: 8px solid #103f52!important
+    border: 8px solid #b37c63!important
 }
 div#theme {
     width: auto;
     height: auto;
     padding: 4px 18px 4px 18px;
-    background-color: rgba(16, 63, 82, 0.5);
+    background-color: #8b4f33;
     position: absolute;
     bottom: 8px;
     text-align: center;
