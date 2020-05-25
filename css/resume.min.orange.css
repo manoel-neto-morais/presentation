@@ -185,4 +185,6 @@ div#theme {
     left: 50%;
     margin-left: -70px;
     cursor:pointer;
+    padding: 2px 12px 2px 12px;
+    color: #868e96c2
 }

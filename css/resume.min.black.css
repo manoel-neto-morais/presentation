@@ -177,7 +177,6 @@ img#profile {
 div#theme {
     width: auto;
     height: auto;
-    padding: 4px 18px 4px 18px;
     background-color: rgba(0, 0, 0, 0.5);
     position: absolute;
     bottom: 8px;
@@ -185,4 +184,6 @@ div#theme {
     left: 50%;
     margin-left: -70px;
     cursor:pointer;
+    padding: 2px 12px 2px 12px;
+    color: #868e96c2
 }
