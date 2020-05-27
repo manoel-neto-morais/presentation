@@ -221,17 +221,17 @@ div#line {
     right: 0;
 }
 div#topo {
-    width: auto;
-    height: auto;
-    padding: 2px 12px 2px 12px;
+    width: 50px;
+    height: 25px;
     background-color: #103f52ee;
     text-align: center;
     cursor:pointer;
     color: #868e96c2;
-    position: absolute;
-    left: 50%;
+    position: relative;
     border-radius: 10%;
-    margin-top: 60px;
+    margin-top: 20%;
+    margin-left: 94%;
+    margin-bottom: 0px;
 }
 div#topo:hover {
     background-color: #2089b3;
