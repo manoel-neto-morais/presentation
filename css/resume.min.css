@@ -214,8 +214,26 @@ div#print:hover {
 }
 div#line {
     background-color: #fff;
-    width: 100%;
+    width: 25%;
     height: 40px;
     margin-top: 0px;
     position: fixed;
+    right: 0;
+}
+div#topo {
+    width: auto;
+    height: auto;
+    padding: 2px 12px 2px 12px;
+    background-color: #103f52ee;
+    text-align: center;
+    cursor:pointer;
+    color: #868e96c2;
+    position: absolute;
+    left: 50%;
+    border-radius: 10%;
+    margin-top: 60px;
+}
+div#topo:hover {
+    background-color: #2089b3;
+    color: white;
 }
