@@ -185,7 +185,13 @@ div#theme {
     margin-left: -70px;
     cursor:pointer;
     padding: 2px 12px 2px 12px;
-    color: #868e96c2
+    color: #868e96c2;
+    border-radius: 10%;
+}
+div#theme:hover {
+    background-color: rgba(0, 0, 0);
+    color: white;
+    transition: 0.5s;
 }
 div#print {
     width: auto;
