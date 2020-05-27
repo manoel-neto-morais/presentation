@@ -220,20 +220,3 @@ div#line {
     margin-top: 0px;
     position: fixed;
 }
-div#topo {
-    width: auto;
-    height: auto;
-    padding: 2px 12px 2px 12px;
-    background-color: #bd5d38;
-    text-align: center;
-    cursor:pointer;
-    color: #868e96c2;
-    position: absolute;
-    left: 50%;
-    border-radius: 10%;
-    margin-top: 60px;
-}
-div#topo:hover {
-    background-color: #f07849;
-    color: white;
-}
