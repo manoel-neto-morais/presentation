@@ -236,4 +236,5 @@ div#theme:hover {
     margin-top: 0px;
     position: fixed;
     right: 0;
+    background: scroll;
 }
