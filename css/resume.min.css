@@ -230,7 +230,7 @@ div#theme:hover {
     opacity: 0.65;
 }
 .line {
-    background-color: rgb(255, 255, 255);
+    background: white;
     width: 100%;
     height: 40px;
     margin-top: 0px;
