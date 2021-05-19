@@ -190,7 +190,11 @@ li.espace {
     margin-bottom:10px;
 }
 img#profile {
-    border: 8px solid #103f52!important
+    border: 8px solid #103f52!important;
+    border-radius: 100%;
+    height: 15rem;
+    width: 15rem;
+
 }
 div#theme {
     width: auto;
